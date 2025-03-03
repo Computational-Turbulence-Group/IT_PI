@@ -7,7 +7,7 @@ predictive power by measuring their shared information content. ._
 - identifies optimal dimensionless inputs
 - distinguishes physical regimes
 - discovers self-similar variables
-- IT-PI extracts characteristic scales
+- extracts characteristic scales
 - provides a bound of the minimum predictive error achievable across all possible models
 - ranks variables by predictability
 - evaluates model efficiency
