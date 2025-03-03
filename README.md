@@ -3,7 +3,7 @@ _The code implements IT-PI, a model-free method that combines dimensional analys
 information theory, which identifies dimensionless variables with the highest
 predictive power by measuring their shared information content._
 ## Features 
-- applies to algebraic, ODE, and PDE relationships
+- applies to algebraic, ODE, and PDE
 - identifies optimal dimensionless inputs
 - distinguishes physical regimes
 - discovers self-similar variables
