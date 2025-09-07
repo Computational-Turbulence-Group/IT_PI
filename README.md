@@ -1,4 +1,4 @@
-# IT-PI: Information-theoretic Buckingham-Π theorem
+# IT-PI: Dimensionless learning based on information
 _The code implements IT-PI, an information-theoretic, data-driven method to identify dimensionless variables with the highest predictive power._
 ## Introduction
 Dimensional analysis is one of the most fundamental tools for
